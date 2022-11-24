@@ -19,7 +19,7 @@
 #define _DUTY_MAX 2000  // Servo angle: D degree
 #define _DUTY_NEU 1500  // Servo angle: 0 degree
 #define _DUTY_MIN 1000   // Servo angle: E degree
-#define _SERVO_ANGLE_DIFF 600 // Replace with |D - E| degree
+#define _SERVO_ANGLE_DIFF 1000 // Replace with |D - E| degree
 #define _SERVO_SPEED 500 // servo speed limit (unit: degree/second)
 
 #define _BANGBANG_RANGE 120
